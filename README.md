@@ -3,7 +3,7 @@
 [![Python Versions](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue?logo=python&logoColor=white)](https://www.python.org)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 ![Mypy](https://img.shields.io/badge/mypy-checked-green)
-![Codecov](https://img.shields.io/badge/codecov-100%-green)
+![Codecov](https://img.shields.io/badge/codecov-100%25-green)
 ![GitHub License](https://img.shields.io/github/license/mmmylnikov/log_analyzer)
 
 ---
